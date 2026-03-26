@@ -31,7 +31,7 @@ arctan(x) − 4/(1+x^2) = 0, finner toppunktet numerisk og plotter funksjonen.
 - `README.md`: denne beskrivelsen
 - `toppunkt.png`: plott med toppunkt (opprettes ved kjøring)
 
-## Resultater (oppdater med dine tall)
+## Resultater
 ```text
 python main.py
 x* = 1.6908

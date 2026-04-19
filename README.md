@@ -20,7 +20,6 @@ arctan(x) − 4/(1+x^2) = 0, finner toppunktet numerisk og plotter funksjonen.
 - Plotter f(x) og markerer toppunktet (x*, f(x*)).
 
 ## Kjøring
-- Krever Python 3.8+
 - Installer: `pip install -r requirements.txt`
 - Kjør: `python main.py`
 - Bildet lagres som `toppunkt.png`.
